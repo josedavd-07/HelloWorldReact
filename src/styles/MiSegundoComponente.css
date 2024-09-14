@@ -1,0 +1,20 @@
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkslategrey;
+    text-align: center;
+    font-size: 18px;
+}
+
+
+h4 {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkslategrey;
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    color: floralwhite;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
